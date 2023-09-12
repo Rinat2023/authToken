@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/authToken/static/css/main.9f088a99.css",
+    "main.js": "/authToken/static/js/main.f94d2a72.js",
+    "index.html": "/authToken/index.html",
+    "main.9f088a99.css.map": "/authToken/static/css/main.9f088a99.css.map",
+    "main.f94d2a72.js.map": "/authToken/static/js/main.f94d2a72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f088a99.css",
+    "static/js/main.f94d2a72.js"
+  ]
+}
